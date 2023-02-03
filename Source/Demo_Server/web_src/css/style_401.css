@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+html{
+    font-size: 100%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    margin:0 -8px 0 -8px;
+}
+
+.main{
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    height: 90%;
+}
+    
+.main .text{
+    color: white;
+}
+.sub-text{
+    padding-bottom:20px
+}
+
+.main .image{
+    width: 100%;
+    background-color: rgb(254, 169, 24);
+    height: 100%;
+    flex:
+}
+.main .image{
+    width: 100%;
+    background-color: rgb(254, 169, 24);
+    height: 100%;
+    flex: ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
